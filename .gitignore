@@ -1,1 +1,4 @@
 venv
+installed_packages.txt
+sample_submission.csv
+eda_with_notes.py
